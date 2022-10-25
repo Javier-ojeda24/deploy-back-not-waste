@@ -1,0 +1,65 @@
+[
+  {
+    "id": "47b63ef8-b70b-4c9c-a701-bff125e819db",
+    "name": "DDBBlo de jacinto",
+    "phone": 556852324,
+    "email": "DDBBjacinto@gmail.com",
+    "adress": "DDBBcolon 3475",
+    "cuit": "965123584",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiWsTtwPZXXIVahnNpWfgMafTuHwiqRtYNhQ&usqp=CAU",
+    "category": "restaurante",
+    "enabled": false,
+    "createdAt": "2022-10-16T14:25:35.652Z",
+    "updatedAt": "2022-10-16T14:25:35.652Z",
+    "managerId": null,
+    "cities": [
+      {
+        "name": "DDBBAv. Emilio Castro 5500, B1440 Buenos Aires, Provincia de Buenos Aires, Argentina"
+      }
+    ],
+    "products": [
+      {
+        "id": "09d081a8-d6b0-4060-9174-e3213623fb49",
+        "name": "DDBBdocena de empanadas surtidas",
+        "price": 700,
+        "realValue": 1800,
+        "description": "DDBBuna docena de empanadas surtidas variedad según disponibilidad",
+        "stock": 2,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/40/79/eb/20190117-221039-largejpg.jpg",
+        "createdAt": "2022-10-16T14:26:37.046Z",
+        "updatedAt": "2022-10-16T14:26:37.046Z",
+        "sellerId": "23ac02bc-f8e7-4d0f-b2f0-33a491bfd04f",
+        "posts": [
+          {
+            "id": "d0425a0c-79c8-4ba9-97fc-eecfd05f3691",
+            "date": "2022-10-20T00:00:00.000Z",
+            "amount": 2,
+            "createdAt": "2022-10-16T14:40:56.876Z",
+            "updatedAt": "2022-10-16T14:40:56.878Z",
+            "productId": "09d081a8-d6b0-4060-9174-e3213623fb49",
+            "orders": []
+          },
+          {
+            "id": "0d6ea4d0-3e81-40da-8f4b-1a3c0702ccb9",
+            "date": "2022-10-21T00:00:00.000Z",
+            "amount": 3,
+            "createdAt": "2022-10-16T14:41:05.341Z",
+            "updatedAt": "2022-10-16T14:41:05.342Z",
+            "productId": "09d081a8-d6b0-4060-9174-e3213623fb49",
+            "orders": []
+          },
+          {
+            "id": "ea685a4a-efa1-40b4-8594-c1e7dbe2365d",
+            "date": "2022-10-22T00:00:00.000Z",
+            "amount": 3,
+            "createdAt": "2022-10-16T14:41:10.727Z",
+            "updatedAt": "2022-10-16T14:41:10.731Z",
+            "productId": "09d081a8-d6b0-4060-9174-e3213623fb49",
+            "orders": []
+          }
+        ],
+        "diets": []
+      }
+    ]
+  }
+]

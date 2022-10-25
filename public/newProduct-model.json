@@ -1,0 +1,785 @@
+[
+    {
+        "id": "89adbeb3-cb67-479f-90d6-9790649a5050",
+        "name": "combo de carne",
+        "price": 500,
+        "realValue": 2000,
+        "description": "combo de cortes de carne vacuna según variead disponible, peso aproximado 2kg",
+        "stock": 2,
+        "image": "https://static2.abc.es/media/bienestar/2021/09/27/tipos-de-carne-1-kWj--620x349@abc.jpg",
+        "createdAt": "2022-10-16T14:02:24.445Z",
+        "updatedAt": "2022-10-16T14:02:24.445Z",
+        "sellerId": "21dfb584-9e64-4941-8ff0-bbf8db7b39de",
+        "diets": [
+            {
+                "name": "sin tacc"
+            }
+        ],
+        "posts": [
+            {
+                "id": "43cd64c4-66f4-445f-86e8-3d367429c14a",
+                "date": "2022-10-21T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:28:23.027Z",
+                "updatedAt": "2022-10-16T14:28:23.028Z",
+                "productId": "89adbeb3-cb67-479f-90d6-9790649a5050",
+                "orders": []
+            },
+            {
+                "id": "79c93f40-7e78-440e-803d-e3b5ce27f2b5",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:28:16.367Z",
+                "updatedAt": "2022-10-16T14:28:16.430Z",
+                "productId": "89adbeb3-cb67-479f-90d6-9790649a5050",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "90d8d608-d1dc-4208-ba39-bf45b84a85fe",
+        "name": "combo de carne",
+        "price": 400,
+        "realValue": 1900,
+        "description": "combo de cortes de carne vacuna según variead disponible, peso aproximado 2kg",
+        "stock": 2,
+        "image": "https://www.diariodesevilla.es/2022/02/07/sociedad/cocinar-carne-sufrir-intoxicacion-alimentaria_1654644991_151608388_1200x675.jpg",
+        "createdAt": "2022-10-16T14:02:54.447Z",
+        "updatedAt": "2022-10-16T14:02:54.447Z",
+        "sellerId": "ddae1143-af56-41ed-8c2c-0efc75a31284",
+        "diets": [
+            {
+                "name": "sin tacc"
+            }
+        ],
+        "posts": [
+            {
+                "id": "e0bce215-9bb2-4127-9489-cd820a0b537c",
+                "date": "2022-10-22T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:30:16.219Z",
+                "updatedAt": "2022-10-16T14:30:16.276Z",
+                "productId": "90d8d608-d1dc-4208-ba39-bf45b84a85fe",
+                "orders": []
+            },
+            {
+                "id": "4858bd18-5340-40b2-9ca2-1f9daf610a16",
+                "date": "2022-10-23T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:30:25.491Z",
+                "updatedAt": "2022-10-16T14:30:25.495Z",
+                "productId": "90d8d608-d1dc-4208-ba39-bf45b84a85fe",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "b85143e5-9bc1-4fa0-b62f-9340750c44b3",
+        "name": "combo de verduras",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de verduras según variead disponible, peso aproximado 3kg",
+        "stock": 2,
+        "image": "https://quintaentrega.com.ar/ProductImages/10728_bolson-familiar11-61baaded365f9ee42115889768899677-1024-1024.jpg",
+        "createdAt": "2022-10-16T14:04:09.628Z",
+        "updatedAt": "2022-10-16T14:04:09.628Z",
+        "sellerId": "ddae1143-af56-41ed-8c2c-0efc75a31284",
+        "diets": [
+            {
+                "name": "sin tacc"
+            }
+        ],
+        "posts": [
+            {
+                "id": "bfe1c8b2-c852-41d3-9aff-c2b35c577ada",
+                "date": "2022-10-22T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:28:48.231Z",
+                "updatedAt": "2022-10-16T14:28:48.234Z",
+                "productId": "b85143e5-9bc1-4fa0-b62f-9340750c44b3",
+                "orders": []
+            },
+            {
+                "id": "3b74425a-b8f3-4125-b284-d87e02abb168",
+                "date": "2022-10-21T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:28:41.855Z",
+                "updatedAt": "2022-10-16T14:28:41.912Z",
+                "productId": "b85143e5-9bc1-4fa0-b62f-9340750c44b3",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "911c0b04-cb49-4cd7-a6d3-8ed861a46e03",
+        "name": "combo de verduras",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de verduras según variead disponible, peso aproximado 3kg",
+        "stock": 2,
+        "image": "https://cdn.buttercms.com/wxIxPlVqRvCE4fE6tvgO",
+        "createdAt": "2022-10-16T14:04:33.813Z",
+        "updatedAt": "2022-10-16T14:04:33.813Z",
+        "sellerId": "21dfb584-9e64-4941-8ff0-bbf8db7b39de",
+        "diets": [
+            {
+                "name": "sin tacc"
+            },
+            {
+                "name": "vegana"
+            }
+        ],
+        "posts": []
+    },
+    {
+        "id": "a8df2955-ac4a-44f3-8f2a-2e8730bc5a34",
+        "name": "combo de frutas",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de frutas según variead disponible, peso aproximado 3kg",
+        "stock": 2,
+        "image": "https://libbys.es/wordpress/wp-content/uploads/2014/12/multifrutas-web.jpg",
+        "createdAt": "2022-10-16T14:04:53.185Z",
+        "updatedAt": "2022-10-16T14:04:53.185Z",
+        "sellerId": "21dfb584-9e64-4941-8ff0-bbf8db7b39de",
+        "diets": [
+            {
+                "name": "sin tacc"
+            },
+            {
+                "name": "vegana"
+            }
+        ],
+        "posts": [
+            {
+                "id": "286acbb1-1417-4132-b006-904a6c222aae",
+                "date": "2022-10-22T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:29:05.921Z",
+                "updatedAt": "2022-10-16T14:29:05.980Z",
+                "productId": "a8df2955-ac4a-44f3-8f2a-2e8730bc5a34",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "e4491e35-1a04-4044-8b2a-04db56308ca8",
+        "name": "combo de frutas",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de frutas según variead disponible, peso aproximado 3kg",
+        "stock": 2,
+        "image": "https://bucket.somosohlala.com.ar/s3fs-public/styles/img_internal/public/2022-07/gettyimages-1257611470_1.jpg.webp?itok=kS2z8Cp_",
+        "createdAt": "2022-10-16T14:05:04.530Z",
+        "updatedAt": "2022-10-16T14:05:04.530Z",
+        "sellerId": "ddae1143-af56-41ed-8c2c-0efc75a31284",
+        "diets": [
+            {
+                "name": "sin tacc"
+            },
+            {
+                "name": "vegana"
+            }
+        ],
+        "posts": []
+    },
+    {
+        "id": "8bfce36c-5b15-4f67-8908-844b6d582c2c",
+        "name": "combo de panificado dulce",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de medialunas y facturas según variead disponible, 1 docena",
+        "stock": 2,
+        "image": "https://i.pinimg.com/originals/2b/49/21/2b492101aa5327f6e21ead4a9a8476d2.jpg",
+        "createdAt": "2022-10-16T14:07:02.134Z",
+        "updatedAt": "2022-10-16T14:07:02.134Z",
+        "sellerId": "46d2a682-0919-46a5-9b0f-dddc40a58ec9",
+        "diets": [
+            {
+                "name": "vegana"
+            }
+        ],
+        "posts": [
+            {
+                "id": "a561fce4-aac9-46a1-9300-c88d1ac32617",
+                "date": "2022-10-21T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:32:08.039Z",
+                "updatedAt": "2022-10-16T14:32:08.042Z",
+                "productId": "8bfce36c-5b15-4f67-8908-844b6d582c2c",
+                "orders": []
+            },
+            {
+                "id": "dae50dcd-0c94-4bc2-aa41-8768bfa983ce",
+                "date": "2022-10-22T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:32:11.375Z",
+                "updatedAt": "2022-10-16T14:32:11.378Z",
+                "productId": "8bfce36c-5b15-4f67-8908-844b6d582c2c",
+                "orders": []
+            },
+            {
+                "id": "cbbbb43c-0786-4d44-95ff-49bf9b6f648a",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:32:03.106Z",
+                "updatedAt": "2022-10-16T14:32:03.170Z",
+                "productId": "8bfce36c-5b15-4f67-8908-844b6d582c2c",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "9e355b4d-1766-439a-b412-87bdc9859cd4",
+        "name": "combo de panificado dulce",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de medialunas y facturas según variead disponible, 1 docena",
+        "stock": 2,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Palmeras_de_hojaldre_1.jpg",
+        "createdAt": "2022-10-16T14:08:07.255Z",
+        "updatedAt": "2022-10-16T14:08:07.255Z",
+        "sellerId": "8551f385-8f20-4368-9642-cf5ba71294cd",
+        "diets": [
+            {
+                "name": "vegana"
+            }
+        ],
+        "posts": [
+            {
+                "id": "b89f1bc9-8458-4e5d-8e27-8f3991b30f25",
+                "date": "2022-10-21T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:36:28.368Z",
+                "updatedAt": "2022-10-16T14:36:28.424Z",
+                "productId": "9e355b4d-1766-439a-b412-87bdc9859cd4",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "fea02bb7-a310-43c2-87e1-8fa8773469f9",
+        "name": "combo de panificado dulce",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de medialunas y facturas según variead disponible, 1 docena",
+        "stock": 2,
+        "image": "https://d320djwtwnl5uo.cloudfront.net/recetas/cover/factu_oymSqKPZBMlgpXc5aEFh8Y4dGrs3Nn.png",
+        "createdAt": "2022-10-16T14:09:16.014Z",
+        "updatedAt": "2022-10-16T14:09:16.014Z",
+        "sellerId": "a3b498d9-3d77-4dc3-820b-7053274c850e",
+        "diets": [
+            {
+                "name": "vegana"
+            }
+        ],
+        "posts": [
+            {
+                "id": "b5d17cc7-c973-476d-9991-ab40b7b91118",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:37:17.122Z",
+                "updatedAt": "2022-10-16T14:37:17.194Z",
+                "productId": "fea02bb7-a310-43c2-87e1-8fa8773469f9",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "18bc8df2-4591-426d-86dd-7aee5b6a287e",
+        "name": "combo de panificado dulce",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de medialunas y facturas según variead disponible, 1 docena",
+        "stock": 2,
+        "image": "https://vamospanish.com/wp-content/uploads/facturas.jpg",
+        "createdAt": "2022-10-16T14:10:28.049Z",
+        "updatedAt": "2022-10-16T14:10:28.049Z",
+        "sellerId": "92553293-53cc-48d0-b93f-cf87f698358c",
+        "diets": [
+            {
+                "name": "vegana"
+            }
+        ],
+        "posts": [
+            {
+                "id": "5e8ebf42-3395-4411-bbbf-84b1c6ba839d",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:38:08.528Z",
+                "updatedAt": "2022-10-16T14:38:08.530Z",
+                "productId": "18bc8df2-4591-426d-86dd-7aee5b6a287e",
+                "orders": []
+            },
+            {
+                "id": "24c6f3e4-69db-4c95-a2c6-7014969ffcec",
+                "date": "2022-10-21T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:38:14.375Z",
+                "updatedAt": "2022-10-16T14:38:14.378Z",
+                "productId": "18bc8df2-4591-426d-86dd-7aee5b6a287e",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "2d4b4a69-6140-4a74-a102-bbdccf530a10",
+        "name": "combo de panificado dulce",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de medialunas y facturas según variead disponible, 1 docena",
+        "stock": 2,
+        "image": "https://placeralplato.com/files/2015/05/facturas-argentinas-640x480.jpg?width=1200&enable=upscale",
+        "createdAt": "2022-10-16T14:10:45.394Z",
+        "updatedAt": "2022-10-16T14:10:45.394Z",
+        "sellerId": "ec819017-0bd7-42d5-ba12-eb01e3b75b11",
+        "diets": [
+            {
+                "name": "vegana"
+            }
+        ],
+        "posts": [
+            {
+                "id": "341baa39-41e9-44fb-b1a1-782eb23519e3",
+                "date": "2022-10-21T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:38:59.243Z",
+                "updatedAt": "2022-10-16T14:38:59.303Z",
+                "productId": "2d4b4a69-6140-4a74-a102-bbdccf530a10",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "deb13f99-13d0-451f-b692-4bbe044e2264",
+        "name": "combo de panificado dulce",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de medialunas y facturas según variead disponible, 1 docena",
+        "stock": 2,
+        "image": "https://www.paulinacocina.net/wp-content/uploads/2019/06/whatsapp-image-2019-06-08-at-16.54.42.jpeg",
+        "createdAt": "2022-10-16T14:11:20.190Z",
+        "updatedAt": "2022-10-16T14:11:20.190Z",
+        "sellerId": "0cf532e0-0cfe-4c56-8889-b5d3e450e8f6",
+        "diets": [
+            {
+                "name": "vegana"
+            }
+        ],
+        "posts": [
+            {
+                "id": "871db67f-0ac5-4001-859e-2747e299b587",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:39:42.720Z",
+                "updatedAt": "2022-10-16T14:39:42.783Z",
+                "productId": "deb13f99-13d0-451f-b692-4bbe044e2264",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "d0b9e9ca-8bf5-4b80-8956-5980b9d03a25",
+        "name": "combo de panificado dulce",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de medialunas y facturas según variead disponible, 1 docena",
+        "stock": 2,
+        "image": "https://www.clarin.com/img/2013/10/13/r1mfUtu3mg_1256x620.jpg",
+        "createdAt": "2022-10-16T14:11:37.148Z",
+        "updatedAt": "2022-10-16T14:11:37.148Z",
+        "sellerId": "591082e3-8157-484a-b869-121f1421f69a",
+        "diets": [
+            {
+                "name": "vegana"
+            }
+        ],
+        "posts": []
+    },
+    {
+        "id": "288fdbb9-1e44-40c6-bbb2-1bf3749231d5",
+        "name": "combo de panificado dulce",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de medialunas y facturas según variead disponible, 1 docena",
+        "stock": 2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ObGPO9_o4zAGF7II3jxJfrrk8gdxL9oDFw&usqp=CAU",
+        "createdAt": "2022-10-16T14:12:03.937Z",
+        "updatedAt": "2022-10-16T14:12:03.937Z",
+        "sellerId": "17992cdd-087f-42ee-93be-1350008e5093",
+        "diets": [
+            {
+                "name": "vegana"
+            }
+        ],
+        "posts": []
+    },
+    {
+        "id": "2b011fb5-279d-4ea3-9bcf-2b0a76064fbf",
+        "name": "combo de panificado dulce",
+        "price": 200,
+        "realValue": 1000,
+        "description": "combo de medialunas y facturas según variead disponible, 1 docena",
+        "stock": 2,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/VariedadDeFacturas2.jpg/800px-VariedadDeFacturas2.jpg",
+        "createdAt": "2022-10-16T14:12:47.343Z",
+        "updatedAt": "2022-10-16T14:12:47.343Z",
+        "sellerId": "429e0f09-ce08-4b40-90a7-05bb93805ce0",
+        "diets": [
+            {
+                "name": "vegana"
+            }
+        ],
+        "posts": [
+            {
+                "id": "3cac078e-d475-4712-9de1-6b61d477b60a",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:40:39.489Z",
+                "updatedAt": "2022-10-16T14:40:39.492Z",
+                "productId": "2b011fb5-279d-4ea3-9bcf-2b0a76064fbf",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "b724dc9f-52a9-43b7-9b45-4da986a7dc6d",
+        "name": "combo de panificado salado",
+        "price": 100,
+        "realValue": 500,
+        "description": "combo de panificados salados según variead disponible, 500 gr",
+        "stock": 2,
+        "image": "https://pbs.twimg.com/media/DlNCBKwXoAAzQAi.jpg",
+        "createdAt": "2022-10-16T14:18:39.368Z",
+        "updatedAt": "2022-10-16T14:18:39.368Z",
+        "sellerId": "ec819017-0bd7-42d5-ba12-eb01e3b75b11",
+        "diets": [],
+        "posts": [
+            {
+                "id": "b1ddf747-105d-4a28-8363-b33ab91682f8",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:38:44.927Z",
+                "updatedAt": "2022-10-16T14:38:44.984Z",
+                "productId": "b724dc9f-52a9-43b7-9b45-4da986a7dc6d",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "d4a340fc-c781-42cb-8b2c-d654a84f0525",
+        "name": "combo de panificado salado",
+        "price": 100,
+        "realValue": 500,
+        "description": "combo de panificados salados según variead disponible, 500 gr",
+        "stock": 2,
+        "image": "https://www.sabervivirtv.com/medio/2022/02/14/como-elegir-el-tipo-de-pan-que-nos-conviene_ac3114f5_1280x720.jpg",
+        "createdAt": "2022-10-16T14:19:19.980Z",
+        "updatedAt": "2022-10-16T14:19:19.980Z",
+        "sellerId": "0cf532e0-0cfe-4c56-8889-b5d3e450e8f6",
+        "diets": [],
+        "posts": [
+            {
+                "id": "a8f14e5f-ed89-404e-868c-3f9245858e3e",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:39:27.854Z",
+                "updatedAt": "2022-10-16T14:39:28.056Z",
+                "productId": "d4a340fc-c781-42cb-8b2c-d654a84f0525",
+                "orders": []
+            },
+            {
+                "id": "bc2e81c8-4454-461f-be65-9b6f2de08739",
+                "date": "2022-10-21T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:40:01.971Z",
+                "updatedAt": "2022-10-16T14:40:02.046Z",
+                "productId": "d4a340fc-c781-42cb-8b2c-d654a84f0525",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "abf9fb5c-6c00-4b43-a49d-7de4aef3a6e5",
+        "name": "combo de sandwiches de miga",
+        "price": 200,
+        "realValue": 900,
+        "description": "combo de sandwiches de miga según variead disponible, 6 unidades",
+        "stock": 2,
+        "image": "https://img-global.cpcdn.com/recipes/1a7685ad447b7862/400x400cq70/photo.jpg",
+        "createdAt": "2022-10-16T14:21:41.890Z",
+        "updatedAt": "2022-10-16T14:21:41.890Z",
+        "sellerId": "17992cdd-087f-42ee-93be-1350008e5093",
+        "diets": [],
+        "posts": []
+    },
+    {
+        "id": "09d081a8-d6b0-4060-9174-e3213623fb49",
+        "name": "docena de empanadas surtidas",
+        "price": 700,
+        "realValue": 1800,
+        "description": "una docena de empanadas surtidas variedad según disponibilidad",
+        "stock": 2,
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/40/79/eb/20190117-221039-largejpg.jpg",
+        "createdAt": "2022-10-16T14:26:37.046Z",
+        "updatedAt": "2022-10-16T14:26:37.046Z",
+        "sellerId": "23ac02bc-f8e7-4d0f-b2f0-33a491bfd04f",
+        "diets": [],
+        "posts": [
+            {
+                "id": "ea685a4a-efa1-40b4-8594-c1e7dbe2365d",
+                "date": "2022-10-22T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:41:10.727Z",
+                "updatedAt": "2022-10-16T14:41:10.731Z",
+                "productId": "09d081a8-d6b0-4060-9174-e3213623fb49",
+                "orders": []
+            },
+            {
+                "id": "0d6ea4d0-3e81-40da-8f4b-1a3c0702ccb9",
+                "date": "2022-10-21T00:00:00.000Z",
+                "amount": 3,
+                "createdAt": "2022-10-16T14:41:05.341Z",
+                "updatedAt": "2022-10-16T14:41:05.342Z",
+                "productId": "09d081a8-d6b0-4060-9174-e3213623fb49",
+                "orders": []
+            },
+            {
+                "id": "d0425a0c-79c8-4ba9-97fc-eecfd05f3691",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:40:56.876Z",
+                "updatedAt": "2022-10-16T14:40:56.878Z",
+                "productId": "09d081a8-d6b0-4060-9174-e3213623fb49",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "4b8cc0c7-d7c3-404e-b8c9-534f0d2f0c82",
+        "name": "combo de sandwiches de miga",
+        "price": 200,
+        "realValue": 900,
+        "description": "combo de sandwiches de miga según variead disponible, 6 unidades",
+        "stock": 2,
+        "image": "https://images-gmi-pmc.edge-generalmills.com/dc402a5e-8aab-49de-86ec-30beac96a1c7.jpg",
+        "createdAt": "2022-10-16T14:22:05.840Z",
+        "updatedAt": "2022-10-16T14:22:05.840Z",
+        "sellerId": "429e0f09-ce08-4b40-90a7-05bb93805ce0",
+        "diets": [],
+        "posts": [
+            {
+                "id": "1d8a539b-d71c-4c75-9a2e-139662b83f74",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:40:29.655Z",
+                "updatedAt": "2022-10-16T14:40:29.715Z",
+                "productId": "4b8cc0c7-d7c3-404e-b8c9-534f0d2f0c82",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "52796dc1-9230-4227-8d9c-81593864e2f0",
+        "name": "combo de panificado salado",
+        "price": 100,
+        "realValue": 500,
+        "description": "combo de panificados salados según variead disponible, 500 gr",
+        "stock": 2,
+        "image": "https://www.demoslavueltaaldia.com/sites/default/files/grisines-queso-artesanales.jpg",
+        "createdAt": "2022-10-16T14:20:05.463Z",
+        "updatedAt": "2022-10-16T14:20:05.463Z",
+        "sellerId": "591082e3-8157-484a-b869-121f1421f69a",
+        "diets": [],
+        "posts": []
+    },
+    {
+        "id": "beac974c-566d-4098-8e27-eb355c56a2a2",
+        "name": "combo de panificado salado",
+        "price": 100,
+        "realValue": 500,
+        "description": "combo de panificados salados según variead disponible, 500 gr",
+        "stock": 2,
+        "image": "https://cocinerosargentinos.com/content/recipes/500x500/recipes.11686.jpeg",
+        "createdAt": "2022-10-16T14:15:37.783Z",
+        "updatedAt": "2022-10-16T14:15:37.783Z",
+        "sellerId": "8551f385-8f20-4368-9642-cf5ba71294cd",
+        "diets": [],
+        "posts": [
+            {
+                "id": "54f65901-7dc2-4c85-a19e-6938b6b77c5e",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 1,
+                "createdAt": "2022-10-16T14:36:13.819Z",
+                "updatedAt": "2022-10-16T14:36:13.879Z",
+                "productId": "beac974c-566d-4098-8e27-eb355c56a2a2",
+                "orders": []
+            },
+            {
+                "id": "047463a7-da14-4545-b57b-dd4cf89383a3",
+                "date": "2022-10-22T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:36:49.232Z",
+                "updatedAt": "2022-10-16T14:36:49.296Z",
+                "productId": "beac974c-566d-4098-8e27-eb355c56a2a2",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "61364847-6bf6-4044-96cd-19dd7524a1c8",
+        "name": "combo de panificado salado",
+        "price": 100,
+        "realValue": 500,
+        "description": "combo de panificados salados según variead disponible, 500 gr",
+        "stock": 2,
+        "image": "https://i0.wp.com/paraguayrecetas.com/wp-content/uploads/2021/04/Chipa-Paraguay.jpg?fit=1200%2C900&ssl=1",
+        "createdAt": "2022-10-16T14:16:23.662Z",
+        "updatedAt": "2022-10-16T14:16:23.662Z",
+        "sellerId": "8c2052a3-2572-4762-9ae0-a2e4507d0860",
+        "diets": [],
+        "posts": []
+    },
+    {
+        "id": "3c82e9e8-51a7-4303-a720-2d6f5ca939ec",
+        "name": "combo de sandwiches de miga",
+        "price": 200,
+        "realValue": 900,
+        "description": "combo de sandwiches de miga según variead disponible, 6 unidades",
+        "stock": 2,
+        "image": "https://img.restaurantguru.com/r185-La-Celeste-Panaderia-Sucursal-Obispo-Trejo-sandwich.jpg",
+        "createdAt": "2022-10-16T14:23:07.025Z",
+        "updatedAt": "2022-10-16T14:23:07.025Z",
+        "sellerId": "46d2a682-0919-46a5-9b0f-dddc40a58ec9",
+        "diets": [],
+        "posts": [
+            {
+                "id": "0c48d59c-2cf6-4c3c-b760-e9713c2c4435",
+                "date": "2022-10-21T00:00:00.000Z",
+                "amount": 1,
+                "createdAt": "2022-10-16T14:35:24.600Z",
+                "updatedAt": "2022-10-16T14:35:24.603Z",
+                "productId": "3c82e9e8-51a7-4303-a720-2d6f5ca939ec",
+                "orders": []
+            },
+            {
+                "id": "48160854-9c11-40d5-9e4e-0b5e322a123d",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:35:19.034Z",
+                "updatedAt": "2022-10-16T14:35:19.094Z",
+                "productId": "3c82e9e8-51a7-4303-a720-2d6f5ca939ec",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "9004b36b-bffb-46cb-a267-02bebfeaac22",
+        "name": "combo de panificado salado",
+        "price": 100,
+        "realValue": 500,
+        "description": "combo de panificados salados según variead disponible, 500 gr",
+        "stock": 2,
+        "image": "https://i.pinimg.com/originals/77/ec/01/77ec01992de8047bf1ae67cc6a748109.jpg",
+        "createdAt": "2022-10-16T14:14:15.262Z",
+        "updatedAt": "2022-10-16T14:14:15.262Z",
+        "sellerId": "429e0f09-ce08-4b40-90a7-05bb93805ce0",
+        "diets": [],
+        "posts": [
+            {
+                "id": "97447b2e-e516-4cae-9cd6-6a44aa8f4b5b",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:40:45.914Z",
+                "updatedAt": "2022-10-16T14:40:45.916Z",
+                "productId": "9004b36b-bffb-46cb-a267-02bebfeaac22",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "3b8d3e6f-063b-4789-9c7c-ec4e4f90e833",
+        "name": "combo de panificado salado",
+        "price": 100,
+        "realValue": 500,
+        "description": "combo de panificados salados según variead disponible, 500 gr",
+        "stock": 2,
+        "image": "https://okdiario.com/img/2022/02/14/por-que-el-pan-se-pone-duro.jpg",
+        "createdAt": "2022-10-16T14:16:50.120Z",
+        "updatedAt": "2022-10-16T14:16:50.120Z",
+        "sellerId": "a3b498d9-3d77-4dc3-820b-7053274c850e",
+        "diets": [],
+        "posts": [
+            {
+                "id": "befaeebe-a79a-4f7d-b47f-0d27f0e924a4",
+                "date": "2022-10-21T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:37:33.987Z",
+                "updatedAt": "2022-10-16T14:37:33.990Z",
+                "productId": "3b8d3e6f-063b-4789-9c7c-ec4e4f90e833",
+                "orders": []
+            },
+            {
+                "id": "3aa0c16e-5a5a-419e-a5b5-4592cc62c9ef",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:37:27.373Z",
+                "updatedAt": "2022-10-16T14:37:27.560Z",
+                "productId": "3b8d3e6f-063b-4789-9c7c-ec4e4f90e833",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "4b17ff4c-5df1-4506-b844-9ea637dca508",
+        "name": "combo de panificado salado",
+        "price": 100,
+        "realValue": 500,
+        "description": "combo de panificados salados según variead disponible, 500 gr",
+        "stock": 2,
+        "image": "https://www.gastronomiavasca.net/uploads/image/file/4326/pan.jpg",
+        "createdAt": "2022-10-16T14:17:20.451Z",
+        "updatedAt": "2022-10-16T14:17:20.451Z",
+        "sellerId": "92553293-53cc-48d0-b93f-cf87f698358c",
+        "diets": [],
+        "posts": [
+            {
+                "id": "0345d5e7-dafe-4440-b18d-7102e684098a",
+                "date": "2022-10-20T00:00:00.000Z",
+                "amount": 2,
+                "createdAt": "2022-10-16T14:38:01.091Z",
+                "updatedAt": "2022-10-16T14:38:01.149Z",
+                "productId": "4b17ff4c-5df1-4506-b844-9ea637dca508",
+                "orders": []
+            }
+        ]
+    },
+    {
+        "id": "d801ff6c-3744-4da0-b005-7a7321174541",
+        "name": "combo de sandwiches de miga",
+        "price": 200,
+        "realValue": 900,
+        "description": "combo de sandwiches de miga según variead disponible, 6 unidades",
+        "stock": 2,
+        "image": "https://mui.today/__export/1599136882009/sites/mui/img/2020/09/03/unnamed_x8x.jpg_1307846333.jpg",
+        "createdAt": "2022-10-16T14:22:50.747Z",
+        "updatedAt": "2022-10-16T14:22:50.747Z",
+        "sellerId": "46d2a682-0919-46a5-9b0f-dddc40a58ec9",
+        "diets": [],
+        "posts": []
+    },
+    {
+        "id": "82670066-df00-4cae-bbce-dbbd30d64b39",
+        "name": "combo de panificado salado",
+        "price": 100,
+        "realValue": 500,
+        "description": "combo de panificados salados según variead disponible, 500 gr",
+        "stock": 2,
+        "image": "https://img-global.cpcdn.com/recipes/9c9c7c0579ce0792/1200x630cq70/photo.jpg",
+        "createdAt": "2022-10-16T14:14:28.901Z",
+        "updatedAt": "2022-10-16T14:14:28.901Z",
+        "sellerId": "46d2a682-0919-46a5-9b0f-dddc40a58ec9",
+        "diets": [],
+        "posts": []
+    }
+]
